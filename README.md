@@ -21,7 +21,10 @@ OCR data extracted from Madina version of Quran. This was done as a part of grad
 	Hazem M.S. Mesilhy
 	
 ## Citation:
+	DOI: 10.13140/RG.2.2.25742.87362
 	to cite the work you can refer to our paper : Data Preparation and Handling for Written Quran Script Verification
 	https://www.researchgate.net/publication/308994154_Data_Preparation_and_Handling_for_Written_Quran_Script_Verification?ev=prf_ov_fet_res&_iepl%5BviewId%5D=O08t8oNuRFR0U6kVInZBVIuw0a2kWctCgFwk&_iepl%5Bcontexts%5D%5B0%5D=prfhpi&_iepl%5Bdata%5D%5BstandardItemCount%5D=1&_iepl%5Bdata%5D%5BuserSelectedItemCount%5D=0&_iepl%5Bdata%5D%5BtopHighlightCount%5D=1&_iepl%5Bdata%5D%5BtopHighlightIndex%5D=1&_iepl%5Bdata%5D%5BfeaturedItem1of1%5D=1&_iepl%5BtargetEntityId%5D=PB%3A308994154&_iepl%5BinteractionType%5D=publicationTitle
+	
+	Researchgate link: https://www.researchgate.net/publication/324065701_Quran_OCR_data
 	
 	
