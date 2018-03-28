@@ -1,0 +1,4 @@
+tashkeelName = {'alf' 'damma ' 'damma_hat' 'el geem' 'el wakf ' 'fatha  ' 'hamza ' 'hamza2' 'hat' 
+'kelly' 'laa' 'mad' 'meem' 'point ''selly' 'shada' 'shape' 'skoon ' 'skoon2' 'three_points  ' 
+'tnween damma' 'tnween fatha shifted' ...
+'tnween fatha straight' 'two_points'};
