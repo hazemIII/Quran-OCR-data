@@ -11,7 +11,7 @@ OCR data extracted from Madina version of Quran. This was done as a part of grad
 	model: Machine learning models used in the OCR process
 
 ## Licence:
-  Both the data and source codes included are under GNU3 licence.
+  Both the data and source codes included are under Creative Commons licence (CC BY 2.0). All work using this data must cite the original source and paper.
   
 
 ## Authors: 
